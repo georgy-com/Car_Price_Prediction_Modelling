@@ -1,3 +1,5 @@
+Overview:
+
 This project developed and evaluated machine learning models to predict the selling price of used cars using a dataset containing 301 vehicle records with features such as car brand, manufacturing year, current market price, mileage (driven kilometers), fuel type, transmission type, selling type, and ownership history. The objective was to understand the factors influencing used-car prices and build an accurate predictive model.
 
 The analysis followed a complete machine learning workflow, including data cleaning, exploratory data analysis (EDA), feature engineering, categorical variable encoding, model training, evaluation, and prediction. Two regression algorithms—Linear Regression and Random Forest Regression—were compared using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and the Coefficient of Determination (R² Score).
